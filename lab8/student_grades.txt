@@ -1,0 +1,6 @@
+Student ID Number: 5570418
+ Student Name: cameron
+ Lab Marks: 28/30
+ Quiz Marks: 19/20
+ Computer Program Marks: 50/50
+ Total Mark = 97/100
